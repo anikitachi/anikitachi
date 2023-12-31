@@ -69,7 +69,7 @@ THIRD LINE.
     THIRD LINE.
 5.
 ( a.) Stay in directory a. Create 2 directories b/c with a single command
-mkdir b cmv
+mkdir b c
 ( b.) Create a new directory d
  mkdir d
 ( c.) Copy the directory d to directory c using a single command
