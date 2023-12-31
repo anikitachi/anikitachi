@@ -115,6 +115,13 @@ mv file3 file0
 ( b.) Remove the files starting with the word “file” with a single
 command
    rm file*
+
+
+
+  
 ![Screenshot_2023-12-31_23-40-14](https://github.com/anikitachi/anikitachi/assets/155320984/5a597b78-d54f-45d7-9d5b-d57e35b33f7f)
-![Screenshot_2023-12-31_23-40-33](https://github.com/anikitachi/anikitachi/assets/155320984/c0c79356-a5ff-4f98-91c5-3e70246eee25)
+![Screenshot_2023-12-31_23-40-33](https://github.com/anikitachi/anikitachi/assets/155320984/62276bef-03f0-43d7-b7bc-ed4a1befb793)
+![Screenshot_2023-12-31_23-40-47](https://github.com/anikitachi/anikitachi/assets/155320984/9650f53b-e1ab-4094-bf90-ed299eeec2e1)
+![Screenshot_2023-12-31_23-41-02](https://github.com/anikitachi/anikitachi/assets/155320984/922480f1-bee1-4792-8b0e-aaa450120c2f)
+![Screenshot_2023-12-31_23-41-33](https://github.com/anikitachi/anikitachi/assets/155320984/19bcf8fb-a680-4ea0-a076-ce0da5965a4c)
 
